@@ -91,3 +91,5 @@ AuthController.logout = function (req, res, next) {
         });
     }
 }
+
+module.exports = AuthController;
